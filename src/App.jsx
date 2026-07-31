@@ -1,4 +1,3 @@
-import LudoBoard from './LudoBoard'
 import './App.css'
 import TodoList from './TodoList'
 
