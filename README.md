@@ -4,7 +4,6 @@ A clean, modern Todo List application built with React and Vite to practice core
 
 🔗 Live Demo: https://todo-list-using-react-eight-kappa.vercel.app/
 
-
 ✨ Features
 ➕ Add new tasks
 ✅ Mark individual tasks as done / undone
