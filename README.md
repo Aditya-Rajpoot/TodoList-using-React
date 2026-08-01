@@ -2,7 +2,8 @@
 
 A clean, modern Todo List application built with React and Vite to practice core React concepts like state management, component structure, and dynamic UI rendering.
 
-🔗 Live Demo: todo-list-using-react-eight-kappa.vercel.app
+🔗 Live Demo: https://todo-list-using-react-eight-kappa.vercel.app/
+
 
 ✨ Features
 ➕ Add new tasks
