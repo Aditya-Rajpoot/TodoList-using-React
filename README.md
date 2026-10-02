@@ -34,14 +34,6 @@ A lightweight, fully client-side Todo List app built to practice fundamental Rea
 - **CSS3**
 - **uuid** – Unique task IDs
 
-## 📂 Project Structure
-Todo-List/
-├── src/
-│ ├── components/ # Task item, task list, input form
-│ ├── App.jsx
-│ └── main.jsx
-└── index.html
-
 ## 🗺️ Roadmap
 
 - [ ] Persist tasks with localStorage
